@@ -35,8 +35,6 @@ REFERENCE NUMBER:212222230117
 ```
 
 ```
- Developed By: ARSHATHA P
-Register No:212222230012
 
 import numpy as np
 
